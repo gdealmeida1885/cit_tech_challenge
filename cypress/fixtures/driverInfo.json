@@ -1,0 +1,28 @@
+{
+    "valid_driver": {
+        "name": "Gabriel Almeida",
+        "email": "gabriel.almeida.sdmf@gmail.com",
+        "cpf": 64306811069,
+        "phone": 11954419893,
+        "address": "Rua Adalberto Pereira Gomes",
+        "houseNumber": 88,
+        "postalCode": "06856-790",
+        "complement": "Casa 2",
+        "driversLicense": "./cnh_image.jpeg",
+        "city": "Itapecerica da Serra/SP",
+        "neighborhood": "Valo Velho"
+    },
+    "invalid_driver": {
+        "name": "Gabriel Almeida",
+        "email": "gabriel.almeida.sdmf@gmail.com",
+        "cpf": 119498234,
+        "phone": 11954419893,
+        "address": "Rua Adalberto Pereira Gomes",
+        "houseNumber": 88,
+        "postalCode": "06856790",
+        "complement": "Casa 2",
+        "driversLicense": "",
+        "city": "Itapecerica da Serra/SP",
+        "neighborhood": "Valo Velho"
+    }
+}
